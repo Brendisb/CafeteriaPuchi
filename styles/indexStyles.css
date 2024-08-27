@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+}
+
+body{
+    background-color: bisque;
+}
+
+.header{
+    background-color: brown ;
+    position: relative;
+    margin-top: 0;
+}
+
+.nav{
+    height: 80px;
+    align-items: center;
+}
+
+.listaNav{
+    display: flex;
+    justify-content: center;
+}
